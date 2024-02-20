@@ -47,10 +47,13 @@ Structure Query Language. Es un lenguaje declarativo, estandarizado por dos agen
 
 ## Bases de datos relacionales
 ¿Qué es una base de datos relacional? ¿Qué ventajas tiene? ¿Qué elementos la conforman?
-Una base de datos es una base de datos con varias tablas relacionadas entre si. Algunas ventajas de este tipo de base de datos relacional es que son 
+- Una base de datos es una base de datos con varias tablas relacionadas entre si. Algunas ventajas de este tipo de base de datos relacional es que son muy sencillas a la hora de trabajar con ellas y también permite la accesibilidad de varios ususarios en una misma base de datos al mismo tiempo.
 
-* __Relación (tabla)__: 
-* __Atributo/Campo (columna)__:
-* __Registro/Tupla (fila)__:
+* __Relación (tabla)__: uno a uno, uno a varios, varios a varios.
+* __Atributo/Campo (columna)__: Int, varchar, date...
+* __Registro/Tupla (fila)__: valores numericos.
 
-Iván Montiano González + RESUMEN ACERCA LAS BASES DE DATOSS + ACABAR ULTIMA PREGUNTA
+## Conlcusión
+- En conclusión una BBDD es un conjunto organizado que almacena datos y permite modificarlos, borrarlos y añadirlos. Esta BBDD se encuentra almacenada en un sistema de gestión de base de datos. Existen muchas BBDD diferentes pero algunas de las más utilizadas son Oracle, SQLite, mySQL... Muchas de ellas presentan un modelo cliente-servidor y usan el lenguaje SQL con muchas instrucciones para realizar varias acciones diferentes.
+
+Iván Montiano González
